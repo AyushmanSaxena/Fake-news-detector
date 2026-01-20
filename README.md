@@ -99,6 +99,7 @@ Add confusion matrix & ROC curves
 Perform cross-dataset validation
 Support multilingual fake news detection
 
-📜 Credits & License
+
+# 📜 Credits & License
 Dataset credits belong to the original Kaggle author
 Intended for educational and research purposes
