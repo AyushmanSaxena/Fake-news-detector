@@ -41,7 +41,6 @@ Fake-News-Detection/
 ├── Fake.csv                # Fake news dataset
 ├── True.csv                # Real news dataset
 ├── README.md               # Project documentation
-└── requirements.txt        # (optional)
 
 
 # ⚙️ Technologies Used
